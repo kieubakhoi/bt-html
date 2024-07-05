@@ -1,0 +1,11 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "com.dena.pokota.debug",
+        "paths": ["pococha://interest_category_settings"]
+      }
+      ]
+    }
+  }
