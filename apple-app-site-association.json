@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
       {
-        "appID": "com.dena.pokota.debug",
+        "appID": "TEAMID.com.dena.pokota.debug",
         "paths": ["*"]
       }
       ]
